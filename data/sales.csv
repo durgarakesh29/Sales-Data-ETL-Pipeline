@@ -1,0 +1,7 @@
+Order_ID,Customer,Product,Sales,Order_Date
+1001,John,Laptop,50000,01-05-2025
+1002,Alex,Mouse,1000,02-05-2025
+1003,Ram,,2500,03-05-2025
+1004,John,Laptop,50000,01-05-2025
+1004,John,Laptop,50000,01-05-2025
+1005,David,Keyboard,,04-05-2025
